@@ -39,11 +39,14 @@ This project is deployed on GitHub Pages. [Live Demo](https://khaledswidan.githu
 📦 zustand
  ┣ 📂 src
  ┃ ┣ 📂 components
+ ┃ ┃ ┣ 📜 index.ts
+ ┃ ┃ ┣ 📜 TodoInput.tsx
  ┃ ┃ ┣ 📜 TodoItem.tsx
  ┃ ┃ ┣ 📜 TodoList.tsx
  ┃ ┣ 📂 store
  ┃ ┃ ┣ 📜 todoStore.ts
  ┃ ┣ 📜 App.tsx
+ ┃ ┣ 📜 index.css
  ┃ ┣ 📜 main.tsx
  ┣ 📜 index.html
  ┣ 📜 vite.config.ts
