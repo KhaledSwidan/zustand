@@ -2,6 +2,9 @@
 
 A simple and efficient **Todo List App** built with **Vite, React, TypeScript, and Zustand** for state management.
 
+## Deployment
+This project is deployed on GitHub Pages. [Live Demo](https://khaledswidan.github.io/zustand/)
+
 ## 🌟 Features
 ✅ Add, remove, and update tasks  
 ✅ Mark tasks as complete/incomplete  
@@ -13,7 +16,7 @@ A simple and efficient **Todo List App** built with **Vite, React, TypeScript, a
 - ⚛️ **React** – UI library
 - 🔷 **TypeScript** – Strongly typed JavaScript
 - 🌍 **Zustand** – Simple and scalable state management
-- 🎨 **Tailwind CSS** – Modern styling
+- 🎨 **CSS** – Modern styling
 
 ## 📦 Installation
 
@@ -21,3 +24,29 @@ A simple and efficient **Todo List App** built with **Vite, React, TypeScript, a
    ```sh
    git clone https://github.com/KhaledSwidan/zustand.git
    cd zustand
+
+2. **Install dependencies**
+   ```sh
+   yarn install
+
+3. **Run the development server**
+   ```sh
+   yarn dev
+
+
+## Folder Structure
+
+📦 zustand
+ ┣ 📂 src
+ ┃ ┣ 📂 components
+ ┃ ┃ ┣ 📜 TodoItem.tsx
+ ┃ ┃ ┣ 📜 TodoList.tsx
+ ┃ ┣ 📂 store
+ ┃ ┃ ┣ 📜 todoStore.ts
+ ┃ ┣ 📜 App.tsx
+ ┃ ┣ 📜 main.tsx
+ ┣ 📜 index.html
+ ┣ 📜 vite.config.ts
+ ┣ 📜 package.json
+ ┗ 📜 README.md
+
