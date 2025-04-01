@@ -1,6 +1,6 @@
 # 🚀 Zustand Todo App
 
-A simple and efficient **Todo List App** built with **Vite, React, TypeScript, and Zustand** for state management.
+This Todo List App is a lightweight and interactive application built with Vite, React, TypeScript, and Zustand. The application allows users to create, update, toggle completion status, and delete tasks. It leverages Zustand for simple and efficient state management and Vite for fast development and optimized production builds.
 
 ## Deployment
 This project is deployed on GitHub Pages. [Live Demo](https://khaledswidan.github.io/zustand/)
