@@ -33,9 +33,9 @@ This project is deployed on GitHub Pages. [Live Demo](https://khaledswidan.githu
    ```sh
    yarn dev
 
+## 📂 Folder Structure
 
-## Folder Structure
-
+```tree
 📦 zustand
  ┣ 📂 src
  ┃ ┣ 📂 components
@@ -49,4 +49,3 @@ This project is deployed on GitHub Pages. [Live Demo](https://khaledswidan.githu
  ┣ 📜 vite.config.ts
  ┣ 📜 package.json
  ┗ 📜 README.md
-
